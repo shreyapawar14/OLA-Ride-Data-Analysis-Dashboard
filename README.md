@@ -1,5 +1,4 @@
 # 🚕 OLA-Ride-Data-Analysis-Dashboard
-
 ## 1. Project Title / Headline
 OLA Ride Data Analysis – Booking, Revenue, Cancellation & Ratings Insights.
 An end-to-end analytical dashboard built using SQL, Excel, and Power BI to uncover ride demand patterns, revenue drivers, cancellation behavior and customer/driver satisfaction across multiple vehicle types.
@@ -13,8 +12,8 @@ The dashboard was developed using the following tools and technologies:<br>
 📊 Power BI Desktop – Primary tool for interactive dashboard creation and storytelling.<br>
 📂 Microsoft Excel – Data cleaning, validation, pivot tables, and statistical analysis.<br>
 🔄 Power Query – Data transformation, normalization, and preprocessing.<br>
-🧠 DAX (Data Analysis Expressions) – Created KPIs, calculated measures, and dynamic filters.<br>
-🧩 Data Modeling – Structured relationships between bookings, vehicles, payments, and ratings.<br>
+🧠 DAX (Data Analysis Expressions) – Created KPIs, calculated measures and dynamic filters.<br>
+🧩 Data Modeling – Structured relationships between bookings, vehicles, payments and ratings.<br>
 📁 File Formats – .pbix for development and .png for dashboard previews.
 
 ## 4. Data Source
