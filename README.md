@@ -1,13 +1,13 @@
 # 🚕 OLA-Ride-Data-Analysis-Dashboard
 
-### 1. Project Title / Headline
+## 1. Project Title / Headline
 OLA Ride Data Analysis – Booking, Revenue, Cancellation & Ratings Insights.
 An end-to-end analytical dashboard built using SQL, Excel, and Power BI to uncover ride demand patterns, revenue drivers, cancellation behavior and customer/driver satisfaction across multiple vehicle types.
 
-### 2. Short Description / Purpose
+## 2. Short Description / Purpose
 The OLA Ride Data Analysis Dashboard is an interactive business intelligence solution designed to analyze large-scale ride-hailing data. It enables stakeholders to monitor booking performance, revenue trends, cancellation reasons, vehicle-wise efficiency, and rating patterns to support data-driven operational and strategic decisions.
 
-### 3. Tech Stack
+## 3. Tech Stack
 The dashboard was developed using the following tools and technologies:<br>
 🗄️ SQL – Used to extract, transform, and optimize queries on 1M+ ride records.<br>
 📊 Power BI Desktop – Primary tool for interactive dashboard creation and storytelling.<br>
@@ -17,7 +17,7 @@ The dashboard was developed using the following tools and technologies:<br>
 🧩 Data Modeling – Structured relationships between bookings, vehicles, payments, and ratings.<br>
 📁 File Formats – .pbix for development and .png for dashboard previews.
 
-### 4. Data Source
+## 4. Data Source
 Dataset Type: Simulated / Business-style OLA ride booking data.
 Data Volume: 1M+ rows of ride-level data.
 Key Attributes:
@@ -29,7 +29,7 @@ Booking status (Success / Cancelled / Driver Not Found),
 Cancellation reasons (Customer & Driver),
 Driver & customer ratings
 
-### 5. Features / Highlights
+## 5. Features / Highlights
 • Business Problem
 Ride-hailing platforms face operational challenges such as:
 High cancellation rates,
@@ -125,8 +125,9 @@ Ratings analysis highlights vehicle categories needing quality enhancement
 🧠 End-to-End Analytics Demonstration:
 Showcases SQL + Excel + Power BI workflow used in real business scenarios
 
-### 6. Screenshots / Demo
+## 6. Screenshots / Demo
 📸 Dashboard Preview
+
 <img width="1389" height="793" alt="OLA Ride Data Analysis Dashboard Screenshot Page 1 (Overall Section)" src="https://github.com/user-attachments/assets/a166c2be-b69d-4abb-a555-1444e7d58365" />
 <img width="1370" height="794" alt="OLA Ride Data Analysis Dashboard Screenshot Page 2 (Vehicle Type Section)" src="https://github.com/user-attachments/assets/46fae98e-81db-4cc3-a608-61830e46abad" />
 <img width="1389" height="790" alt="OLA Ride Data Analysis Dashboard Screenshot Page 3 (Revenue Section)" src="https://github.com/user-attachments/assets/dc5f658b-0895-4a20-84a3-a549e83a17ae" />
